@@ -1,9 +1,6 @@
 <script>
-  import EmailPreview from './lib/components/EmailPreview.svelte'; // Ajusta la ruta si es necesario
+  import EmailPreview from './lib/components/EmailPreview.svelte';
 
-  // Datos dinámicos que puedes modificar
-  let userName = "Pedro";
-  let confirmationLink = "https://miweb.com/confirmar";
 </script>
 
 <main>
